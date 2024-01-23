@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["{allmembers}"];
+const statusMessages = ["khong ai khac ngoai em"];
 
 
 let currentIndex = 0;
