@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/help để xem các lệnh","/play để phát nhác"];
+const statusMessages = ["/help để xem các lệnh","/play để phát nhạc"];
 
 
 let currentIndex = 0;
