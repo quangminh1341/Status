@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/help để xem các lệnh!","/play để phát nhạc!"];
+const statusMessages = ["đang iu đơn phương💔"];
 
 
 let currentIndex = 0;
