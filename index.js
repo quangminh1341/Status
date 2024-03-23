@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Thích Làm Phiền"];
+const statusMessages = ["http://ayo.so/nzservice"];
 
 
 let currentIndex = 0;
