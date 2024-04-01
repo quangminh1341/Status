@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["http://ayo.so/alymee","🧡 by Alymee Code @2024"];
+const statusMessages = ["http://ayo.so/alymee","🧡 by Alymee Code ©2024"];
 
 
 let currentIndex = 0;
