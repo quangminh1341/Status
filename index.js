@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["𝗵𝘁𝘁𝗽𝘀://𝗮𝘆𝗼.𝘀𝗼/𝗮𝗹𝘆𝗺𝗲𝗲","𝟭𝟲 𝗦𝗲𝗿𝘃𝗲𝗿𝘀 | 𝟱𝟲𝟮𝟰 𝗠𝗲𝗺𝗯𝗲𝗿𝘀"];
+const statusMessages = ["Khóc trong lòng ❤️", "Trader Con"];
 
 
 let currentIndex = 0;
